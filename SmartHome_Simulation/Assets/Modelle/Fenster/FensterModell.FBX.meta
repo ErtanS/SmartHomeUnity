@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: fd389b8230a3df146ad34928149149ba
+timeCreated: 1459517235
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: accessories001
+    100002: accessories002
+    100004: accessories003
+    100006: accessories004
+    100008: accessories005
+    100010: cap001
+    100012: cap002
+    100014: cap003
+    100016: cap004
+    100018: cap005
+    100020: cap006
+    100022: cap007
+    100024: cap008
+    100026: cap009
+    100028: cap010
+    100030: door handle
+    100032: door handle001
+    100034: door handle002
+    100036: door handle003
+    100038: door handle004
+    100040: door handle005
+    100042: door handle005 1
+    100044: door handle006
+    100046: door handle007
+    100048: door handle008
+    100050: fasten
+    100052: fasten001
+    100054: fasten003
+    100056: fasten005
+    100058: fasten006
+    100060: "glass 4 \u043C\u043C"
+    100062: "glass 4 \u043C\u043C001"
+    100064: "glass 4 \u043C\u043C002"
+    100066: "glass 4 \u043C\u043C003"
+    100068: "glass 4 \u043C\u043C004"
+    100070: "glass 4 \u043C\u043C005"
+    100072: "glass 4 \u043C\u043C006"
+    100074: "glass 4 \u043C\u043C007"
+    100076: "glass 4 \u043C\u043C008"
+    100078: "glass 4 \u043C\u043C009"
+    100080: "glass 4 \u043C\u043C010"
+    100082: "glass 4 \u043C\u043C011"
+    100084: "glass 4 \u043C\u043C012"
+    100086: "glass 4 \u043C\u043C013"
+    100088: "glass 4 \u043C\u043C014"
+    100090: "glass 4 \u043C\u043C015"
+    100092: "glass 4 \u043C\u043C016"
+    100094: "glass 4 \u043C\u043C017"
+    100096: "glass 4 \u043C\u043C020"
+    100098: "glass 4 \u043C\u043C021"
+    100100: glass packet
+    100102: glass packet001
+    100104: glass packet002
+    100106: glass packet003
+    100108: glass packet004
+    100110: glass packet005
+    100112: glass packet006
+    100114: glass packet007
+    100116: glass packet008
+    100118: glass packet010
+    100120: Rehau bead
+    100122: Rehau bead001
+    100124: Rehau bead002
+    100126: Rehau bead003
+    100128: Rehau bead004
+    100130: Rehau bead005
+    100132: Rehau bead006
+    100134: Rehau bead007
+    100136: Rehau bead008
+    100138: Rehau bead010
+    100140: Rehau box 554002
+    100142: Rehau box 554003
+    100144: Rehau box 554004
+    100146: Rehau box 554005
+    100148: Rehau box 554006
+    100150: REHAU Euro-Design 60  001
+    100152: REHAU Euro-Design 60  002
+    100154: REHAU Euro-Design 60  003
+    100156: REHAU Euro-Design 60  004
+    100158: REHAU Euro-Design 60  005
+    100160: //RootNode
+    100162: Rehau fold 554012
+    100164: Rehau fold 554013
+    100166: Rehau fold 554014
+    100168: Rehau fold 554015
+    100170: Rehau fold 554016
+    100172: Rehau Impost 554022
+    100174: Rehau Impost 554023
+    100176: Rehau Impost 554024
+    100178: Rehau Impost 554025
+    100180: Rehau Impost 554026
+    100182: remote strap
+    100184: remote strap001
+    100186: remote strap002
+    100188: remote strap003
+    100190: remote strap004
+    100192: remote strap005
+    100194: remote strap006
+    100196: remote strap007
+    100198: remote strap008
+    100200: remote strap010
+    100202: sealant
+    100204: sealant001
+    100206: sealant002
+    100208: sealant003
+    100210: sealant004
+    100212: sealant005
+    100214: sealant006
+    100216: sealant007
+    100218: sealant008
+    100220: sealant010
+    100222: sealer
+    100224: sealer001
+    100226: sealer002
+    100228: sealer003
+    100230: sealer004
+    100232: sealer005
+    100234: sealer006
+    100236: sealer007
+    100238: sealer008
+    100240: sealer009
+    100242: sealer010
+    100244: sealer011
+    100246: sealer012
+    100248: sealer013
+    100250: sealer014
+    100252: sealer015
+    100254: sealer016
+    100256: sealer017
+    100258: sealer018
+    100260: sealer019
+    100262: sealer020
+    100264: sealer021
+    100266: sealer022
+    100268: sealer023
+    100270: sealer024
+    100272: sealer027
+    100274: sealer029
+    100276: sealer030
+    100278: sealer032
+    100280: sealer033
+    100282: window-sill001
+    100284: window-sill002
+    100286: window-sill003
+    100288: window-sill004
+    100290: window-sill005
+    400000: accessories001
+    400002: accessories002
+    400004: accessories003
+    400006: accessories004
+    400008: accessories005
+    400010: cap001
+    400012: cap002
+    400014: cap003
+    400016: cap004
+    400018: cap005
+    400020: cap006
+    400022: cap007
+    400024: cap008
+    400026: cap009
+    400028: cap010
+    400030: door handle
+    400032: door handle001
+    400034: door handle002
+    400036: door handle003
+    400038: door handle004
+    400040: door handle005
+    400042: door handle005 1
+    400044: door handle006
+    400046: door handle007
+    400048: door handle008
+    400050: fasten
+    400052: fasten001
+    400054: fasten003
+    400056: fasten005
+    400058: fasten006
+    400060: "glass 4 \u043C\u043C"
+    400062: "glass 4 \u043C\u043C001"
+    400064: "glass 4 \u043C\u043C002"
+    400066: "glass 4 \u043C\u043C003"
+    400068: "glass 4 \u043C\u043C004"
+    400070: "glass 4 \u043C\u043C005"
+    400072: "glass 4 \u043C\u043C006"
+    400074: "glass 4 \u043C\u043C007"
+    400076: "glass 4 \u043C\u043C008"
+    400078: "glass 4 \u043C\u043C009"
+    400080: "glass 4 \u043C\u043C010"
+    400082: "glass 4 \u043C\u043C011"
+    400084: "glass 4 \u043C\u043C012"
+    400086: "glass 4 \u043C\u043C013"
+    400088: "glass 4 \u043C\u043C014"
+    400090: "glass 4 \u043C\u043C015"
+    400092: "glass 4 \u043C\u043C016"
+    400094: "glass 4 \u043C\u043C017"
+    400096: "glass 4 \u043C\u043C020"
+    400098: "glass 4 \u043C\u043C021"
+    400100: glass packet
+    400102: glass packet001
+    400104: glass packet002
+    400106: glass packet003
+    400108: glass packet004
+    400110: glass packet005
+    400112: glass packet006
+    400114: glass packet007
+    400116: glass packet008
+    400118: glass packet010
+    400120: Rehau bead
+    400122: Rehau bead001
+    400124: Rehau bead002
+    400126: Rehau bead003
+    400128: Rehau bead004
+    400130: Rehau bead005
+    400132: Rehau bead006
+    400134: Rehau bead007
+    400136: Rehau bead008
+    400138: Rehau bead010
+    400140: Rehau box 554002
+    400142: Rehau box 554003
+    400144: Rehau box 554004
+    400146: Rehau box 554005
+    400148: Rehau box 554006
+    400150: REHAU Euro-Design 60  001
+    400152: REHAU Euro-Design 60  002
+    400154: REHAU Euro-Design 60  003
+    400156: REHAU Euro-Design 60  004
+    400158: REHAU Euro-Design 60  005
+    400160: //RootNode
+    400162: Rehau fold 554012
+    400164: Rehau fold 554013
+    400166: Rehau fold 554014
+    400168: Rehau fold 554015
+    400170: Rehau fold 554016
+    400172: Rehau Impost 554022
+    400174: Rehau Impost 554023
+    400176: Rehau Impost 554024
+    400178: Rehau Impost 554025
+    400180: Rehau Impost 554026
+    400182: remote strap
+    400184: remote strap001
+    400186: remote strap002
+    400188: remote strap003
+    400190: remote strap004
+    400192: remote strap005
+    400194: remote strap006
+    400196: remote strap007
+    400198: remote strap008
+    400200: remote strap010
+    400202: sealant
+    400204: sealant001
+    400206: sealant002
+    400208: sealant003
+    400210: sealant004
+    400212: sealant005
+    400214: sealant006
+    400216: sealant007
+    400218: sealant008
+    400220: sealant010
+    400222: sealer
+    400224: sealer001
+    400226: sealer002
+    400228: sealer003
+    400230: sealer004
+    400232: sealer005
+    400234: sealer006
+    400236: sealer007
+    400238: sealer008
+    400240: sealer009
+    400242: sealer010
+    400244: sealer011
+    400246: sealer012
+    400248: sealer013
+    400250: sealer014
+    400252: sealer015
+    400254: sealer016
+    400256: sealer017
+    400258: sealer018
+    400260: sealer019
+    400262: sealer020
+    400264: sealer021
+    400266: sealer022
+    400268: sealer023
+    400270: sealer024
+    400272: sealer027
+    400274: sealer029
+    400276: sealer030
+    400278: sealer032
+    400280: sealer033
+    400282: window-sill001
+    400284: window-sill002
+    400286: window-sill003
+    400288: window-sill004
+    400290: window-sill005
+    2300000: accessories001
+    2300002: accessories002
+    2300004: accessories003
+    2300006: accessories004
+    2300008: accessories005
+    2300010: cap001
+    2300012: cap002
+    2300014: cap003
+    2300016: cap004
+    2300018: cap005
+    2300020: cap006
+    2300022: cap007
+    2300024: cap008
+    2300026: cap009
+    2300028: cap010
+    2300030: door handle
+    2300032: door handle002
+    2300034: door handle004
+    2300036: door handle005 1
+    2300038: door handle008
+    2300040: fasten
+    2300042: fasten001
+    2300044: fasten003
+    2300046: fasten005
+    2300048: fasten006
+    2300050: "glass 4 \u043C\u043C"
+    2300052: "glass 4 \u043C\u043C001"
+    2300054: "glass 4 \u043C\u043C002"
+    2300056: "glass 4 \u043C\u043C003"
+    2300058: "glass 4 \u043C\u043C004"
+    2300060: "glass 4 \u043C\u043C005"
+    2300062: "glass 4 \u043C\u043C006"
+    2300064: "glass 4 \u043C\u043C007"
+    2300066: "glass 4 \u043C\u043C008"
+    2300068: "glass 4 \u043C\u043C009"
+    2300070: "glass 4 \u043C\u043C010"
+    2300072: "glass 4 \u043C\u043C011"
+    2300074: "glass 4 \u043C\u043C012"
+    2300076: "glass 4 \u043C\u043C013"
+    2300078: "glass 4 \u043C\u043C014"
+    2300080: "glass 4 \u043C\u043C015"
+    2300082: "glass 4 \u043C\u043C016"
+    2300084: "glass 4 \u043C\u043C017"
+    2300086: "glass 4 \u043C\u043C020"
+    2300088: "glass 4 \u043C\u043C021"
+    2300090: Rehau bead
+    2300092: Rehau bead001
+    2300094: Rehau bead002
+    2300096: Rehau bead003
+    2300098: Rehau bead004
+    2300100: Rehau bead005
+    2300102: Rehau bead006
+    2300104: Rehau bead007
+    2300106: Rehau bead008
+    2300108: Rehau bead010
+    2300110: Rehau box 554002
+    2300112: Rehau box 554003
+    2300114: Rehau box 554004
+    2300116: Rehau box 554005
+    2300118: Rehau box 554006
+    2300120: Rehau fold 554012
+    2300122: Rehau fold 554013
+    2300124: Rehau fold 554014
+    2300126: Rehau fold 554015
+    2300128: Rehau fold 554016
+    2300130: Rehau Impost 554022
+    2300132: Rehau Impost 554023
+    2300134: Rehau Impost 554024
+    2300136: Rehau Impost 554025
+    2300138: Rehau Impost 554026
+    2300140: remote strap
+    2300142: remote strap001
+    2300144: remote strap002
+    2300146: remote strap003
+    2300148: remote strap004
+    2300150: remote strap005
+    2300152: remote strap006
+    2300154: remote strap007
+    2300156: remote strap008
+    2300158: remote strap010
+    2300160: sealant
+    2300162: sealant001
+    2300164: sealant002
+    2300166: sealant003
+    2300168: sealant004
+    2300170: sealant005
+    2300172: sealant006
+    2300174: sealant007
+    2300176: sealant008
+    2300178: sealant010
+    2300180: sealer
+    2300182: sealer001
+    2300184: sealer002
+    2300186: sealer003
+    2300188: sealer004
+    2300190: sealer005
+    2300192: sealer006
+    2300194: sealer007
+    2300196: sealer008
+    2300198: sealer009
+    2300200: sealer010
+    2300202: sealer011
+    2300204: sealer012
+    2300206: sealer013
+    2300208: sealer014
+    2300210: sealer015
+    2300212: sealer016
+    2300214: sealer017
+    2300216: sealer018
+    2300218: sealer019
+    2300220: sealer020
+    2300222: sealer021
+    2300224: sealer022
+    2300226: sealer023
+    2300228: sealer024
+    2300230: sealer027
+    2300232: sealer029
+    2300234: sealer030
+    2300236: sealer032
+    2300238: sealer033
+    2300240: window-sill001
+    2300242: window-sill002
+    2300244: window-sill003
+    2300246: window-sill004
+    2300248: window-sill005
+    3300000: accessories001
+    3300002: accessories002
+    3300004: accessories003
+    3300006: accessories004
+    3300008: accessories005
+    3300010: cap001
+    3300012: cap002
+    3300014: cap003
+    3300016: cap004
+    3300018: cap005
+    3300020: cap006
+    3300022: cap007
+    3300024: cap008
+    3300026: cap009
+    3300028: cap010
+    3300030: door handle
+    3300032: door handle002
+    3300034: door handle004
+    3300036: door handle005 1
+    3300038: door handle008
+    3300040: fasten
+    3300042: fasten001
+    3300044: fasten003
+    3300046: fasten005
+    3300048: fasten006
+    3300050: "glass 4 \u043C\u043C"
+    3300052: "glass 4 \u043C\u043C001"
+    3300054: "glass 4 \u043C\u043C002"
+    3300056: "glass 4 \u043C\u043C003"
+    3300058: "glass 4 \u043C\u043C004"
+    3300060: "glass 4 \u043C\u043C005"
+    3300062: "glass 4 \u043C\u043C006"
+    3300064: "glass 4 \u043C\u043C007"
+    3300066: "glass 4 \u043C\u043C008"
+    3300068: "glass 4 \u043C\u043C009"
+    3300070: "glass 4 \u043C\u043C010"
+    3300072: "glass 4 \u043C\u043C011"
+    3300074: "glass 4 \u043C\u043C012"
+    3300076: "glass 4 \u043C\u043C013"
+    3300078: "glass 4 \u043C\u043C014"
+    3300080: "glass 4 \u043C\u043C015"
+    3300082: "glass 4 \u043C\u043C016"
+    3300084: "glass 4 \u043C\u043C017"
+    3300086: "glass 4 \u043C\u043C020"
+    3300088: "glass 4 \u043C\u043C021"
+    3300090: Rehau bead
+    3300092: Rehau bead001
+    3300094: Rehau bead002
+    3300096: Rehau bead003
+    3300098: Rehau bead004
+    3300100: Rehau bead005
+    3300102: Rehau bead006
+    3300104: Rehau bead007
+    3300106: Rehau bead008
+    3300108: Rehau bead010
+    3300110: Rehau box 554002
+    3300112: Rehau box 554003
+    3300114: Rehau box 554004
+    3300116: Rehau box 554005
+    3300118: Rehau box 554006
+    3300120: Rehau fold 554012
+    3300122: Rehau fold 554013
+    3300124: Rehau fold 554014
+    3300126: Rehau fold 554015
+    3300128: Rehau fold 554016
+    3300130: Rehau Impost 554022
+    3300132: Rehau Impost 554023
+    3300134: Rehau Impost 554024
+    3300136: Rehau Impost 554025
+    3300138: Rehau Impost 554026
+    3300140: remote strap
+    3300142: remote strap001
+    3300144: remote strap002
+    3300146: remote strap003
+    3300148: remote strap004
+    3300150: remote strap005
+    3300152: remote strap006
+    3300154: remote strap007
+    3300156: remote strap008
+    3300158: remote strap010
+    3300160: sealant
+    3300162: sealant001
+    3300164: sealant002
+    3300166: sealant003
+    3300168: sealant004
+    3300170: sealant005
+    3300172: sealant006
+    3300174: sealant007
+    3300176: sealant008
+    3300178: sealant010
+    3300180: sealer
+    3300182: sealer001
+    3300184: sealer002
+    3300186: sealer003
+    3300188: sealer004
+    3300190: sealer005
+    3300192: sealer006
+    3300194: sealer007
+    3300196: sealer008
+    3300198: sealer009
+    3300200: sealer010
+    3300202: sealer011
+    3300204: sealer012
+    3300206: sealer013
+    3300208: sealer014
+    3300210: sealer015
+    3300212: sealer016
+    3300214: sealer017
+    3300216: sealer018
+    3300218: sealer019
+    3300220: sealer020
+    3300222: sealer021
+    3300224: sealer022
+    3300226: sealer023
+    3300228: sealer024
+    3300230: sealer027
+    3300232: sealer029
+    3300234: sealer030
+    3300236: sealer032
+    3300238: sealer033
+    3300240: window-sill001
+    3300242: window-sill002
+    3300244: window-sill003
+    3300246: window-sill004
+    3300248: window-sill005
+    4300000: cap002
+    4300002: window-sill001
+    4300004: cap001
+    4300006: sealer001
+    4300008: Rehau Impost 554022
+    4300010: Rehau Impost 554023
+    4300012: Rehau bead001
+    4300014: sealer005
+    4300016: sealer003
+    4300018: sealer002
+    4300020: sealer
+    4300022: Rehau fold 554012
+    4300024: sealer004
+    4300026: accessories001
+    4300028: sealer009
+    4300030: sealer008
+    4300032: Rehau box 554002
+    4300034: Rehau fold 554013
+    4300036: accessories002
+    4300038: Rehau bead
+    4300040: Rehau bead002
+    4300042: sealer006
+    4300044: sealer007
+    4300046: door handle008
+    4300048: fasten001
+    4300050: door handle
+    4300052: fasten
+    4300054: remote strap001
+    4300056: "glass 4 \u043C\u043C002"
+    4300058: "glass 4 \u043C\u043C003"
+    4300060: sealant001
+    4300062: "glass 4 \u043C\u043C001"
+    4300064: "glass 4 \u043C\u043C"
+    4300066: sealant
+    4300068: remote strap
+    4300070: "glass 4 \u043C\u043C004"
+    4300072: sealant002
+    4300074: remote strap002
+    4300076: "glass 4 \u043C\u043C005"
+    4300078: sealer016
+    4300080: sealer013
+    4300082: sealer015
+    4300084: sealer012
+    4300086: sealer014
+    4300088: Rehau box 554003
+    4300090: Rehau bead005
+    4300092: Rehau bead004
+    4300094: Rehau fold 554014
+    4300096: Rehau Impost 554025
+    4300098: cap003
+    4300100: window-sill002
+    4300102: Rehau Impost 554024
+    4300104: Rehau bead003
+    4300106: cap004
+    4300108: sealer011
+    4300110: sealer010
+    4300112: sealer017
+    4300114: accessories003
+    4300116: "glass 4 \u043C\u043C010"
+    4300118: remote strap005
+    4300120: sealant005
+    4300122: "glass 4 \u043C\u043C011"
+    4300124: door handle002
+    4300126: fasten003
+    4300128: "glass 4 \u043C\u043C006"
+    4300130: "glass 4 \u043C\u043C007"
+    4300132: sealant003
+    4300134: remote strap003
+    4300136: "glass 4 \u043C\u043C008"
+    4300138: "glass 4 \u043C\u043C009"
+    4300140: sealant004
+    4300142: remote strap004
+    4300144: Rehau bead006
+    4300146: cap005
+    4300148: window-sill003
+    4300150: cap006
+    4300152: sealer018
+    4300154: Rehau Impost 554026
+    4300156: sealer019
+    4300158: sealer020
+    4300160: sealer021
+    4300162: sealer022
+    4300164: Rehau fold 554015
+    4300166: sealer023
+    4300168: accessories004
+    4300170: Rehau box 554004
+    4300172: Rehau bead007
+    4300174: door handle004
+    4300176: fasten005
+    4300178: remote strap006
+    4300180: "glass 4 \u043C\u043C012"
+    4300182: "glass 4 \u043C\u043C013"
+    4300184: sealant006
+    4300186: "glass 4 \u043C\u043C014"
+    4300188: "glass 4 \u043C\u043C015"
+    4300190: sealant007
+    4300192: remote strap007
+    4300194: Rehau bead008
+    4300196: cap007
+    4300198: window-sill004
+    4300200: cap008
+    4300202: sealer024
+    4300204: sealer027
+    4300206: Rehau box 554005
+    4300208: remote strap008
+    4300210: "glass 4 \u043C\u043C016"
+    4300212: "glass 4 \u043C\u043C017"
+    4300214: sealant008
+    4300216: Rehau box 554006
+    4300218: cap009
+    4300220: window-sill005
+    4300222: cap010
+    4300224: sealer029
+    4300226: sealer030
+    4300228: sealer032
+    4300230: Rehau fold 554016
+    4300232: sealer033
+    4300234: accessories005
+    4300236: Rehau bead010
+    4300238: door handle005
+    4300240: fasten006
+    4300242: "glass 4 \u043C\u043C020"
+    4300244: "glass 4 \u043C\u043C021"
+    4300246: sealant010
+    4300248: remote strap010
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
